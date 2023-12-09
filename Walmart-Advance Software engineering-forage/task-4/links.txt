@@ -1,0 +1,6 @@
+github link for datasets : https://github.com/theforage/forage-walmart-task-4
+
+csv — CSV File Reading and Writing : https://docs.python.org/3/library/csv.html
+
+sqlite3 — DB-API 2.0 interface for SQLite databases : https://docs.python.org/3/library/sqlite3.html
+
